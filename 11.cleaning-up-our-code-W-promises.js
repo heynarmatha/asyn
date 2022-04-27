@@ -1,5 +1,5 @@
 const getQuestionsBtn = document.querySelector("button");
-const questionsContainer = document.querySelector(".q-container");
+// const questionsContainer = document.querySelector(".q-container");
 
 getQuestionsBtn.addEventListener("click", getData);
 
